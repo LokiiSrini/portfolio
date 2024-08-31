@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav{
+    background-color: wheat;
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    
+}
+
+.port{
+    padding-left: 50%;
+    padding-top: 5%;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    
+}
+
+.name{
+    padding-left: 70px;
+    padding-top: 30%;
+    font-size: xx-large;
+
+}
+.navbut{
+    margin: 70px;
+}
+h3{
+    margin: 30px;
+}
+.navbut a{
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    justify-content: space-around;
+    display: flex;
+    
+}
+
+.intro{
+    padding-left: 25%;
+    padding-top: 7%;
+    display: flex;
+    font-size: xx-large;
+    padding-right: 4%;
+}
+img{
+    height: 50vh;
+    width: 30%;
+    border-radius: 50px;
+}
+.about{
+    padding-left: 25%;
+    padding-top: 10%;
+    display: flex;
+    font-size: xx-large;
+    margin-top: 5%;
+}
+ .about1{
+    margin: 5%;
+ }
+ .pic{
+    height: 50vh;
+    width: 30%;
+    border-radius: 50px;
+}
+.skill{
+    padding-left: 25%;
+    padding-top: 10%;
+    font-size: xx-large;
+}
+.head{
+    padding-left: 40%;
+}
+.skillpic{
+    margin: 10%;
+}
+.conhead{
+    padding-left: 30%;
+}
+.contact{
+    padding-left: 25%;
+    padding-top: 10%;
+    font-size: xx-large;
+}
+/* .form1{
+    height: 65vh;
+    width: 40%;
+    background-color: wheat;
+    margin-top: 30px;
+    border-radius: 25px;
+    margin-left: 25%;
+    font-size: x-large;
+ 
+}
+form{
+    padding-left: 20%;
+    padding-top: 25px;
+    padding: 11%;
+    padding-top: 20%;
+} */
+
+table{
+    background-color: wheat;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 10%;
+    height: 65vh;
+    width: 40%;
+    border-radius: 15px;
+}
+
+input{
+    border-radius: 15px;
+    padding: 5%;
+}
+
+button{
+    margin-left: 95%;
+    padding: 5%;
+    border-radius: 15px;
+    background-color: rgb(137, 186, 233);
+}
+table td{
+    padding-left: 5%;
+}
